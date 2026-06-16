@@ -6,7 +6,7 @@ Tech Stack:
 - React
 - Node.js
 - FastAPI
-- Machine Learning
+- ML
 
 Services:
 1. MERN Authentication system
